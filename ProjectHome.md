@@ -1,0 +1,1 @@
+Application simply popups all over the screen to create maximum light .
